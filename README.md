@@ -1,7 +1,8 @@
 # TABLEAU_Chicago Crime Analysis and Forecasting
 
  
-![Main Dashboard](https://https://github.com/Ahmed-Wassel-Angar/TABLEAU_Chicago-Crime-Analysis-and-Forecasting/blob/main/Main%20DashBoard.png)
+![Main Dashboard]![image](https://github.com/Ahmed-Wassel-Angar/TABLEAU_Chicago-Crime-Analysis-and-Forecasting/assets/51866367/7a4fa9bb-9b39-430b-a40e-aea0a2bcae26)
 
 
-![Secondary Dashboard](https://github.com/Ahmed-Wassel-Angar/TABLEAU_Chicago-Crime-Analysis-and-Forecasting/blob/main/Secondary-Dashboard.png?raw=true)
+
+![Secondary Dashboard]
